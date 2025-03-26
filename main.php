@@ -9,7 +9,7 @@ echo "Hello World! :D";
 ?>
 <br>
 <?php
- echo "Hendik Ganteng";
+ echo "Hendik Ganteng XX";
 ?>
 </body>
 </html>
