@@ -8,8 +8,8 @@
 echo "Hello World! :D";
 ?>
 <br>
-<?
-echo "Hendik Ganteng";
+<?=
+ "Hendik Ganteng";
 ?>
 </body>
 </html>
