@@ -8,8 +8,8 @@
 echo "Hello World! :D";
 ?>
 <br>
-<?=
- "Hendik Ganteng";
+<?php
+ echo "Hendik Ganteng";
 ?>
 </body>
 </html>
